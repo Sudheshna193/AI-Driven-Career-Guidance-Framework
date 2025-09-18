@@ -1,5 +1,5 @@
 # Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI 
-![App Screenshot](screenshots/output.png)
+![App Screenshot](output.png)
 
 
 ### Make sure to create a `.env` file with following variables -
